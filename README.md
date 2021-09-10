@@ -1,4 +1,4 @@
-![Labelf](Images/https://github.com/AdamBallard/labelf.ai/blob/master/Images/Labelf_logo_horizontal_dark.png)
+![Labelf](https://github.com/AdamBallard/labelf.ai/blob/master/Images/Labelf_logo_horizontal_dark.png)
 
 
 # 				Quick guide för Group 1 Project
