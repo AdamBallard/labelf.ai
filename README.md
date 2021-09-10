@@ -1,4 +1,4 @@
-![Labelf](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsting.co%2Fcompanies%2Flabelf-ai%2F&psig=AOvVaw31RCuApzA0mZ2F9WqWH4Lf&ust=1631398154890000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIj-o-619fICFQAAAAAdAAAAABAd)
+![Labelf](Images/https://github.com/AdamBallard/labelf.ai/blob/master/Images/Labelf_logo_horizontal_dark.png)
 
 
 # 				Quick guide för Group 1 Project
