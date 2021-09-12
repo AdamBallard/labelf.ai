@@ -151,6 +151,10 @@ själv och jobb, plugins samt resultat av varje bygge.
 
 ####				Setup PyCharm Continuous Integration
 
+* Starta ett nytt project 
+* Klicka på VCS i navigationsraden högst upp och välja "Get from Version Control"
+* Fyll i Repository URL
+* Välj Lokal plats & klicka "Clone"
 
 
 ### 				GitHub
