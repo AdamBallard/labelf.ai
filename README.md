@@ -149,6 +149,8 @@ själv och jobb, plugins samt resultat av varje bygge.
 * Lägg till sökvägen till mappen som miljövariabel i din PATH:
   exempel C:\Users\user\Webdriver\
 
+####				Setup PyCharm Continuous Integration
+
 
 
 ### 				GitHub
