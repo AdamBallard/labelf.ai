@@ -72,7 +72,7 @@ själv och jobb, plugins samt resultat av varje bygge.
 #####				Skapa din pipeline - settings 
 
 
-1. När du loggat in väljer du att Skapa nytt item. Namnge den och välj Pipeline och tryck OK.
+1. När du loggat in väljer du att Skapa nytt item. Namnge den, välj "Pipeline" i alternativen under och tryck OK.
 
 2. Konfigurera pipelinen genom att checka följande boxar: 
 	* GitHub Project
