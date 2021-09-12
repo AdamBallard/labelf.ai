@@ -1,4 +1,4 @@
-![Labelf](Images/Labelf_logo_horizontal_dark.png)
+![Labelf](https://github.com/AdamBallard/labelf.ai/blob/master/Images/Labelf_logo_horizontal_dark.png)
 
 
 # 				Quick guide för Group 1 Project
@@ -69,26 +69,25 @@ sparat i en fil på den lokala datorn och Jenkins talar om dess sökväg.
 6. Notera att Jenkins skapar en katalog, .jenkins, i vilken systemet sparar konfiguration av sig
 själv och jobb, plugins samt resultat av varje bygge.
 
+#####				Skapa din pipeline - settings 
 
-När du loggat in väljer du att Skapa nytt item. Namnge den och välj Pipeline och tryck OK.
 
-Konfigurera pipelinen genom att checka följande boxar: 
-* GitHub Project
-* GitHub hook trigger for GITScm polling
+1. När du loggat in väljer du att Skapa nytt item. Namnge den och välj Pipeline och tryck OK.
 
-Fyll i github länken under Project URL
+2. Konfigurera pipelinen genom att checka följande boxar: 
+	* GitHub Project
+	* GitHub hook trigger for GITScm polling
 
-Under pipeline välj definitionen - Pipeline script from SCM
+3. Fyll i github länken under Project URL
 
-Fyll in github repots URL igen.
+4. Under pipeline välj definitionen - Pipeline script from SCM
 
-Fyll i "Branch Specifier", vilken branch du vill bygga ifrån. I vårt fall är detta Robot_WIP. 
+5. Fyll in github repots URL igen.
 
-Kontrollera att Script Path är Jenkinsfile - viktigt att den har samma namn som filen på github repot. 
+6. Fyll i "Branch Specifier", vilken branch du vill bygga ifrån. I vårt fall är detta Robot_WIP. 
+   Kontrollera att Script Path är Jenkinsfile - viktigt att den har samma namn som filen på github repot. 
 
-Tyck på Spara.
-
-Nu är din Pipeline färdig. 
+7. Tyck på Spara.
 
 
 
@@ -96,5 +95,10 @@ Nu är din Pipeline färdig.
 
 
 
+
+
 ### 				GitHub
+
+
+
 
