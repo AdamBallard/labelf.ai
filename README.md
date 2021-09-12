@@ -160,5 +160,36 @@ själv och jobb, plugins samt resultat av varje bygge.
 ### 				GitHub
 
 
+####				Branches
+
+Syftet med Master branchen är slutstation för samtliga filer. Filer som blivit granskade och anses vara förtillfället färdiga. 
+
+Robot_WIP har fungerat som ett mellan stop för icke-kontrollerad eller pågående arbete. Där alla kan tillgå varandras aktuella arbetsuppgifter.
+
+
+
+####				Filer & Mappar
+
+* Robot
+	Innehåller samtliga filer relevanta för automatiserade tester.
+	1) Tests     - Testfallen
+	2) Resourses - Keywords filer
+
+* Utforskande tester 
+	Innehåller information om samtliga testfall & mer detailerad information om utförda utforskande tester.
+
+* Jenkinsfile
+	Script för pipeline till Jenkins
+
+* .gitignore
+	Filer som vår git inte ska klona ifrån våra commits. 
+	Vi har valt Results filen som skapas vid PyCharm exkivering
+
+* README.md 
+	Samtlig relevant information för någon som ska ta över projektet.
+
+
+
+
 
 
